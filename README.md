@@ -3,6 +3,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anshul</h1>
 <!-- <h3 align="center">I'm a Student at PIEMR</h3> -->
 <br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Anshul-Dishoriya">
+</a>
+<a href="https://github.com/Anshul-Dishoriya?tab=followers"><img src="https://img.shields.io/github/followers/Anshul-Dishoriya?label=Followers&style=social" alt="GitHub Badge"></a>
+<br/>
 <h2>🙋‍♂️ About Me</h2>
 
 - 🌱 I’m currently learning **Machine Learning and Data Structure**
@@ -58,12 +65,3 @@
 <br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=Anshul-Dishoriya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Anshul Dishoriya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anshul-Dishoriya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
- 
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Anshul-Dishoriya">
-</a>
-<a href="https://github.com/Anshul-Dishoriya?tab=followers"><img src="https://img.shields.io/github/followers/Anshul-Dishoriya?label=Followers&style=social" alt="GitHub Badge"></a>
