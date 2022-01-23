@@ -25,7 +25,7 @@
 <a  href="https://kaggle.com/anshuldishoriya" target="blank"><img style="margin-right:10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshuldishoriya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshuldishoriya" target="blank"><img style="margin-right:10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anshuldishoriya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepraj_/" target="blank"><img style="margin-right:10px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anshul-dishoriya-38887921a/" target="blank"><img style="margin-right:10px" align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshuldishoriya/" target="blank"><img style="margin-right:10px" align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" width="40" /></a>
 <a href="https://www.hackerearth.com/@anshul995" target="blank"><img style="margin-right:10px" align="center" src="https://img.icons8.com/stickers/100/000000/h.png" height="40" width="40" /></a>
 
 
